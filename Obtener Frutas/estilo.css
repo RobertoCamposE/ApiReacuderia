@@ -1,0 +1,22 @@
+	  body{
+        background-color: #386D4F;
+      }
+      table thead {
+      		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            background:#A7D9B5;
+            color:white;
+            text-align: center;
+            font-size: 1rem;
+        }
+      div{
+      	box-shadow: 0 2px 13px rgba(0, 0, 0, 1);
+      }
+      h1{
+      	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      	color:white;
+        text-align: center;
+        font-weight: 500;
+        margin-top: 20px;
+    margin-bottom: 20px;
+            
+      }
